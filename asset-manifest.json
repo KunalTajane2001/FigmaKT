@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FigmaKT/static/css/main.1caedbd8.css",
+    "main.js": "/FigmaKT/static/js/main.fc4720dd.js",
+    "static/js/787.573ea6bb.chunk.js": "/FigmaKT/static/js/787.573ea6bb.chunk.js",
+    "index.html": "/FigmaKT/index.html",
+    "main.1caedbd8.css.map": "/FigmaKT/static/css/main.1caedbd8.css.map",
+    "main.fc4720dd.js.map": "/FigmaKT/static/js/main.fc4720dd.js.map",
+    "787.573ea6bb.chunk.js.map": "/FigmaKT/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1caedbd8.css",
+    "static/js/main.fc4720dd.js"
+  ]
+}
